@@ -4,7 +4,7 @@
 ---
 
 ## 📘 Overview  
-This repository **consolidates three official Google Codelabs** for the **Agent Development Kit (ADK)** — guiding you from your **first prototype agent** to a **production-ready, tool-empowered assistant**.
+This repository **consolidates three official Google Codelabs and an Agent Application** using the **Agent Development Kit (ADK)**  guiding you from your **first prototype agent** to a **production-ready, tool-empowered assistant**.
 
 Through these tutorials, you’ll progressively build and extend:
 

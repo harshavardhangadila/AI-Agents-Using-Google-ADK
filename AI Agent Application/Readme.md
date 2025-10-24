@@ -1,6 +1,6 @@
 # Education Path Advisor
 
-**Empowering Indian students and parents to make smarter education and career decisions!**
+**Empowering students and parents to make smarter education and career decisions!**
 
 ---
 

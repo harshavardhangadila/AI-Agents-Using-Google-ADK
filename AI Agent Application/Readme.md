@@ -6,7 +6,7 @@
 
 ## 🚦 What is this?
 
-**Education Path Advisor** is your **AI-powered guide** to India's complex education system.  
+**Education Path Advisor** is your **AI-powered guide**
 Whether you're a student, parent, or counselor, this tool helps you:
 
 - 🎯 Discover the best **entrance exams and colleges** for your goals  

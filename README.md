@@ -17,6 +17,8 @@ Through these tutorials, you’ll progressively build and extend:
 3. **Travel Agent using MCP Toolbox for Databases and ADK**  
    > Develop a **database-aware travel assistant** that connects to live data using the **MCP Toolbox for Databases**.
 
+4. Education Path Advisor Agent
+   > Transform your multi-tool framework into a **real-world education advisor** that guides students and parents with data-driven decisions.
 ---
 
 ## 🧩 Prerequisites  
@@ -42,15 +44,15 @@ Before you begin, ensure you have the following setup:
 
 ## 🚀 Projects Included  
 
-| Stage | Codelab | Description |
-|:------|:---------|:-------------|
-| 🧱 **1. Prototype Agent** | [From Prototypes to Agents with ADK](#) | Create your first agent that generates structured documents. |
-| 🧩 **2. Tool-Empowered Agent** | [Building AI Agents with ADK: Empowering with Tools](#) | Add external tools, search, and function calling capabilities. |
-| 🌍 **3. Travel Assistant** | [Travel Agent using MCP Toolbox for Databases and ADK](#) | Build a live data-driven travel assistant that queries real databases. |
+| Stage | Description |
+|:------|:-------------|
+| 🧱 **1. Prototype Agent** | Create your first agent that generates structured documents. |
+| 🧩 **2. Tool-Empowered Agent** | Add external tools, search, and function calling capabilities. |
+| 🌍 **3. Travel Assistant** | Build a live data-driven travel assistant that queries real databases. |
 
 ---
 
-## Agent Application: 🎓 Education Path Advisor  
+## 4. Agent Application: 🎓 Education Path Advisor  
 
 **Education Path Advisor** is an example AI agent built using Google ADK — designed to empower **students, parents, and counselors** to make smarter education and career decisions.
 
